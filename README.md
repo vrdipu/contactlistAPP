@@ -1,10 +1,10 @@
 # contactlistAPP
 
 
-Mean stack 
+Mean stack /
 
-ubuntu
-apt-get update && apt-get install npm nodejs -yq    --- install npm and nodejs
+ubuntu/
+apt-get update && apt-get install npm nodejs -yq    --- install npm and nodejs/
 apt-get install git -yq --------------------install git 
 git clone https://github.com/vrdipu/contactlistAPP.git --------------get the software 
 cd /contactlistAPP/contactlistapp --------code directory 
